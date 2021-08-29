@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "App to view employees in DB and manage departments, roles and employees. Using Node.js, Inquirer, MySQL, and console.table",
+  "main": "y",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smithfamily42/EmployeeTracker.git"
+  },
+  "author": "Brad Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smithfamily42/EmployeeTracker/issues"
+  },
+  "homepage": "https://github.com/smithfamily42/EmployeeTracker#readme"
+}
